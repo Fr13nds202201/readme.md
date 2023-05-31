@@ -1,6 +1,3 @@
-# readme.md
-Description of me
-
 <h1 align="center">Hi 👋, I'm Jose Gonzales</h1>
 <h3 align="center">Engineer of Security of Telecom and FullStack developer from Perú - Lima</h3>
 
